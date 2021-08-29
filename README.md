@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Uran Yamamoto
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yamamoto1227&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/yamamoto1227/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamamoto1227&layout=compact&theme=tokyonight&hide=css)](https://github.com/yamamoto1227/)
+<!-- ソースコード統計 -->
 
 <!--
 **yamamoto1227/yamamoto1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
